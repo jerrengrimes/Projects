@@ -9,7 +9,7 @@ The equation for overall impedance for a specific equivalent circuit model must 
 
 ## Workbook Preview:
 ![Workbook Preview](https://github.com/jerrengrimes/Projects/blob/main/assets/EIS_1.png)
-![Workbook Preview](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJjNHk2MWJobnpuZnBzajRmczNibHgyaDc3bjdycDlub3p2Z3VvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/APqEbxBsVlkWSuFpth/giphy.gif)
+![Workbook Preview](https://github.com/jerrengrimes/Projects/blob/main/assets/combined.png)
 
 
 
